@@ -9,7 +9,12 @@
   <h3 align="center">Quarkus IO</h3>
 </p>
 
-![Lista de Repositórios](/assets/quarkus-logo.png)  
+![Lista de Repositórios](/assets/quarkus-logo.png)
+
+## Link para os Artigos
+- [Linkedin Pulse](https://www.linkedin.com/pulse/tutorial-criando-um-crud-utilizando-quarkus-java-rest-da-silva-melo/) : https://www.linkedin.com/pulse/tutorial-criando-um-crud-utilizando-quarkus-java-rest-da-silva-melo/
+
+- [Medium](https://medium.com/@marcus.paulo/tutorial-criando-um-crud-utilizando-quarkus-java-rest-cdi-panache-hibernate-com-postgres-59793e0d7162) : https://medium.com/@marcus.paulo/tutorial-criando-um-crud-utilizando-quarkus-java-rest-cdi-panache-hibernate-com-postgres-59793e0d7162
 
 <!-- TABLE OF CONTENTS -->
 
